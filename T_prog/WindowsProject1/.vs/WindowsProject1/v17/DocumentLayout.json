@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SibSUTI\\T_prog\\WindowsProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37974064-DFE9-4482-8570-644BF4ED9DC5}|WindowsProject1\\WindowsProject1.vcxproj|E:\\SibSUTI\\T_prog\\WindowsProject1\\WindowsProject1\\WindowsProject1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37974064-DFE9-4482-8570-644BF4ED9DC5}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\WindowsProject1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowsProject1.cpp",
+              "DocumentMoniker": "E:\\SibSUTI\\T_prog\\WindowsProject1\\WindowsProject1\\WindowsProject1.cpp",
+              "RelativeDocumentMoniker": "WindowsProject1\\WindowsProject1.cpp",
+              "ToolTip": "E:\\SibSUTI\\T_prog\\WindowsProject1\\WindowsProject1\\WindowsProject1.cpp",
+              "RelativeToolTip": "WindowsProject1\\WindowsProject1.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T15:03:04.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
